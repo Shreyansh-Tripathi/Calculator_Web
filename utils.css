@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+}
+
+.center-items{
+    align-items: center;
+    justify-content: center;
+}
+
+.font-head{
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: x-large;
+    padding: 10px 0 10px;
+}
+
+.button-font-black{
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Source Code Pro', sans-serif;
+    background-color: rgb(188, 188, 188);
+    font-size: xx-large;
+    padding: 50px 50px 50px 50px;
+    color: black;
+}
+
+.button-font-black:hover{
+    background-color: rgb(222, 222, 222);
+}
+
+.button-font-white:hover{
+    background-color: rgb(249, 165, 11);
+}
+
+.button-font-white{
+    text-align: center;
+    font-family: 'Source Code Pro', sans-serif;
+    background-color: rgb(240, 155, 71);
+    font-weight: bolder;
+    font-size: xx-large;
+    padding: 50px 50px 50px 50px;
+    color: azure;
+}
+
+.size-one-div{
+    width: 15vh;
+}
+.size-two-divs{
+    width: 30vh;
+}
+.size-three-divs{
+    width: 45vh;
+}

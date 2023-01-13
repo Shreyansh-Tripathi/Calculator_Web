@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+}
+
+.input-text{
+    background-color: rgb(24, 24, 24);
+    padding: 30px 10px 30px 0px;
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: antiquewhite;
+    display: flex;
+    text-align: end;
+    width: 60vh;
+}
+
+.header{
+    display: flex;
+    background-color: rgb(255, 170, 0);
+}
+
+.calculator-section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10vh;
+}
+
+.btn-row{
+    display: flex;
+}
+
+.button{
+    border: 1.5px solid black;
+    border-radius: 0px;
+}
+
+
+
